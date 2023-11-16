@@ -29,6 +29,7 @@ int main(void) {
 	pressEnterToContinue();
 }
 
+
 void countWords(string filename) {
 	ifstream inFile;
 	string input;
